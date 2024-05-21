@@ -1,0 +1,35 @@
+.container {
+    align-items: center;
+    justify-content: center;
+    width: 640px;
+    height: 640px;
+    margin-left: 25%;
+    margin-top: 6%;
+    border: 5px solid #000000;
+    position: absolute;
+}
+.black {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #050505;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
+.white {
+    float:left;
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
+h1{
+    color: #000000;
+    text-align: center;
+    margin-top: 4%;
+}
